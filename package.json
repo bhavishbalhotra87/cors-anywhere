@@ -1,5 +1,9 @@
 {
+  "name": "cors-proxy",
+  "version": "1.0.0",
+  "main": "api/proxy.js",
+  "license": "MIT",
   "dependencies": {
-    "axios": "^0.27.2"
+    "axios": "^1.4.0"
   }
 }
